@@ -1,5 +1,7 @@
 # create-svelte
 
+![](./static/images/Screenshot%202023-12-20%20185519.png)
+- give it a star and visit the [website](https://svelte-profolio.vercel.app/)
 - used particle js cdn
 - Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
